@@ -1,4 +1,6 @@
+# Crear el contenido del README para el sistema de gestión de medicamentos
 
+farmacia_readme = """
 # 💊 Sistema de Gestión de Medicamentos
 
 Este proyecto es una aplicación web simple construida con **Flask** y **SQLAlchemy** que permite gestionar medicamentos en una base de datos SQLite. Ideal como sistema básico para farmacias pequeñas o como proyecto educativo.
@@ -26,3 +28,4 @@ Este proyecto es una aplicación web simple construida con **Flask** y **SQLAlch
 
 ```bash
 pip install flask flask_sqlalchemy
+
